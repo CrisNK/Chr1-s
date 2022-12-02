@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chr1-s
-- 👀 I’m interested in Cyber Security.
+- 👀 I’m interested in develop apps in Swift.
 - 🌱 I’m currently learning programming in C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
