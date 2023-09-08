@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrisNK
 - 👀 I’m interested in develop apps in Swift.
-- 🌱 I’m currently learning programming in C.
+- 🌱 I’m currently learning programming in Java.
 
 
 <!---
