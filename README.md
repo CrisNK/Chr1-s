@@ -2,7 +2,6 @@
 - 👀 I’m interested in develop apps in Swift.
 - 🌱 I’m currently learning programming in Java.
 
-
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
