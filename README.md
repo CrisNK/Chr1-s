@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrisNK
+- 👋 Hi, I’m Cristóbal
 - 👀 I’m interested in develop apps in Swift.
 - 🌱 I’m currently learning programming in Java.
 
